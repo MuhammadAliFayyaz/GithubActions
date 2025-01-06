@@ -1,2 +1,4 @@
-x = 5
-print(type(x))
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")

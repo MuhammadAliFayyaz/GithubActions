@@ -1,6 +1,2 @@
-x = "awesome"
-
-def myfunc():
-  print("Python is " + x)
-
-myfunc()
+x = 5
+print(type(x))
